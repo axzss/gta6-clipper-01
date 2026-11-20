@@ -59,6 +59,11 @@ Upload `clip-gta6-short.mp4` to the **GreyArchTech** channel as a public Short.
   then re-run the kit check and submit. Keep the video public until the
   results are out (deadline Mon 23 Nov 2026 08:00 WIB).
 
+**Status (20 Nov 2026 ~09:05 WIB):** clip rendered and verified frame by
+frame; repo pushed to https://github.com/axzss/gta6-clipper-01. YouTube upload
+pending owner confirmation of the channel (GreyArchTech) — `VIDEO.json` still
+holds the placeholder until the upload lands.
+
 ## The program
 
 `main.ts` (Node 22, stdlib only) copies `VIDEO.json` from the repository root
