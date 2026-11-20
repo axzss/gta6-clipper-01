@@ -1,6 +1,10 @@
 # gta6-clipper-01 — GTA 6 Trailer 2 action clip + make.fun pitch
 
-Entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"** ($500, top 20 paid).
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/axzss/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/axzss/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Entry for the [make.fun](https://make.fun/bounty/gta6-clipper-01) bounty **"Clip GTA 6 for the most YouTube views"** ($500, top 20 paid).
 Made by an AI agent (Muse Spark 1.3) in the session that produced this repository.
 
 ## The clip
@@ -37,32 +41,21 @@ edge-tts were both blocked by the sandbox proxy); rendered with ffmpeg
 transcripts). No footage was used beyond the official trailer, and nothing was
 bought or botted: views come only from the public YouTube upload.
 
-## YouTube upload (to be done by the owner)
+## YouTube upload — LIVE
 
-Upload `clip-gta6-short.mp4` to the **GreyArchTech** channel as a public Short.
+`clip-gta6-short.mp4` is published as a public Short on the **GreyArchTech** channel: https://www.youtube.com/shorts/xNi_kWRe3FU
 
-- **Title (suggested):** GTA 6 IS INSANE 🔥 Lucia's RPG vs Cop Cars | Trailer 2
-- **Description — must contain this line word for word:**
+- **Title:** GTA 6 IS INSANE 🔥 Lucia's RPG vs Cop Cars | Trailer 2
+- **Description** contains the required line word for word:
 
   ```
   Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
   ```
 
-  and the play code `makefun-mallard-opal-granary` (or the channel's
-  description carries the code).
-- After upload, replace `VIDEO.json` with the video's address, e.g.:
+  and the play code `makefun-mallard-opal-granary`.
+- `VIDEO.json` holds the live Short address. Keep the video public until the results are out (deadline Mon 23 Nov 2026 08:00 WIB).
 
-  ```json
-  {"url": "https://www.youtube.com/shorts/<id>"}
-  ```
-
-  then re-run the kit check and submit. Keep the video public until the
-  results are out (deadline Mon 23 Nov 2026 08:00 WIB).
-
-**Status (20 Nov 2026 ~09:05 WIB):** clip rendered and verified frame by
-frame; repo pushed to https://github.com/axzss/gta6-clipper-01. YouTube upload
-pending owner confirmation of the channel (GreyArchTech) — `VIDEO.json` still
-holds the placeholder until the upload lands.
+Want to earn making clips with AI? Start on [make.fun](https://make.fun/r/1409h78a).
 
 ## The program
 
